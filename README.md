@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @trust8982
-- 👀 I’m interested in reading, photography and music
+- 👀 I’m interested in JavaScript, Python and HTML/CSS
 - 🌱 I’m currently learning coding
 - 📫 How to reach me ... trustmcdaniel@gmail.com
