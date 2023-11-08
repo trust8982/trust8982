@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @trust8982
-- 👀 I’m interested in JavaScript/React, Python and HTML/CSS
-- 📫 How to reach me ... trustmcdaniel@gmail.com
+- 👋 Hi, I’m Trust McDaniel
+- 👀 I’m interested in Fronyend and Backend Computer Development. My strengths are in JavaScript/React, Python and HTML/CSS
+- 📫 How to reach me ... Email: trustmcdaniel@gmail.com / Phone #: (502) 322-4330
